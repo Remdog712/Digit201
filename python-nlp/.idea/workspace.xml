@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0071f780-0879-45c7-a6ba-478680ab325c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-nlp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-nlp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aiSongLyrics.txt" beforeDir="false" afterPath="$PROJECT_DIR$/aiSongLyrics.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/remiorange-gpt2/ChatGPT2(1).txt" beforeDir="false" afterPath="$PROJECT_DIR$/remiorange-gpt2/ChatGPT2(1).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectExercise2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectExercise2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aiSongLyrics.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
