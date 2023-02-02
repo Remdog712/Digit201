@@ -78,8 +78,12 @@ def readTextFiles(filepath):
         for key, value in highSimilarityDict.items():
             if value not in highSimilarityReduced.values():
                 highSimilarityReduced[key] = value
+                #sorted(highSimilarityReduced)
         print(highSimilarityReduced)
         print(len(highSimilarityReduced.items()), " vs ", len(highSimilarityDict.items()))
+
+        highSimilarityReduced = sorted(highSimilarityDict.items(), key=lambda x: x[1])
+        print(highSimilarityReduced)
 
         # ebb: For this next part, it's YOUR TURN to write some modifying code.
         # We should sort the highSimilarityReduced dictionary by values from high to low,
@@ -96,3 +100,7 @@ for file in os.listdir(CollPath):
         filepath = f"{CollPath}/{file}"
         print(filepath)
         readTextFiles(filepath)
+
+
+
+
