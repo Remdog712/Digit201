@@ -1,0 +1,224 @@
+
+Believe it or not, I'd warn again mixing the drinks or recipes in this
+section unless you know what you're doing; after all, this is stuff you're
+putting into YOURSELF, or your friends. Caveat Gourmet.
+
+
+Filename
+Size
+Description of the Textfile
+
+1st_aid.txt  2395 The Herbalist First Aid Kit
+acetab1.txt  3164 Acetaminophen: Medication Alert, from the Mayo Clinic
+acne1.txt  13481 Isotretinoin (Accutane) Treatment of Acne
+alcohol.hum  2540 A Guide to Good Alcohol, by the Weatherman
+all_grai  50370 The Beginner's Guide to Advanced and All-Grain Brewing by Richard B. Webb (August 30, 1994)
+aniherb.txt  5882 Herbs for Animals, by Helen Massingham-Howells
+anorexia.txt  2059 The Nutritional Extremes of Anorexia & Bulimia by Zoltan P. Rona, M.D.
+antibiot.txt  16196 Examining the Need for Clinical Prophylactic Antibiotic Coverage
+antimead.bev  1364 RECIPE: Antipodal Mead by Zero
+aphrodis.txt  6798 Aphrodisiacs, by Aquarian
+appbred.brd  1034 RECIPE: Apple Bread
+appetiz.rcp  60823 Collection of Recipes of Appetizers
+applepie.des  799 RECIPE: Grandma Hauf's Apple Pie
+apsaucke.des  1138 RECIPE: Applesauce Spice Cake
+arcadian.txt  1498 RECIPE: Arcadian Eight Bean Chili
+arthriti.txt  10878 Natural Therapies for Arthritis, by Zoltan P. Rona, MD
+atherosc.txt  5627 Preventing and Treating Atherosclerosis by Zoltan P. Rona, MD
+awespinh.sal  1444 RECIPE: Awesome Spinach Salad
+ayurved.txt  4582 Reflections on Ayurvedic Medicine
+b12.txt  25545 Vitamin B12 and Vegans
+back1.txt  5441 Mobilization Wedge for Thoracic Disc Lesions by Olive K. Pester
+bakebred.txt  7359 A Collection of Bread Recipes
+baklava.des  1756 RECIPE: Baklava
+banana01.brd  574 RECIPE: Deb Scholerman's Banana Bread, by Gawain
+banana02.brd  998 RECIPE: Banana Bread, by Bryn
+banana03.brd  1485 RECIPE: Banana Bread, from the Moosewood Cookbook by Mollie Katzen
+banana04.brd  759 RECIPE: Banana-Nut Bread by Lisa Jenkins
+banana05.brd  433 RECIPE: Quick and Easy Banana Nut Bread
+batrbred.txt  924 RECIPE: Batter White Bread
+beer-g  6780 Beer Drinking Games by The Penguin
+beer-gui  4618 The New York City Beer Guide by Jim Kasprzak (June 3, 1992)
+beer.gam  9111 Some Examples of Beer Games
+beer.txt  10046 How to Brew Your Own Beer by Jeff Hunter
+beergame.hum  7131 Beer Drinking Games, by The Penguin
+beergame.txt  5260 BEER Drinking Games by The Penguin
+beershrm.fis  686 RECIPE: Beer-Boiled Shrimp
+beershrp.fis  868 RECIPE: Beer-Boiled Shrimp
+beerwarn.txt  2024 A Collection of Beer Warning Label Suggestions
+beesherb.txt  5293 A Herb Garden for Bees, by Heather Apple
+beginn.ers  12580 The Beginner's Guide to Homebrewing
+berryeto.bev  700 RECIPE: Elephant's Eye Berryetto
+bhang.fun  2577 BHANG: A Refreshing Drink for Summer Days
+bhb.ill  18880 Butchering the Human Carcass for Human Consumption by Bob Arson (May 14, 1995)
+blkbean.txt  1803 RECIPE: Black Bean Chili
+blkbnsrc.vgn  1354 RECIPE: Black Beans Over Rice
+blood.txt  2089 How to Lower your Blood Cholesterol
+boarchil.txt  2296 RECIPE: Roast Boar and Black Bean Chili
+bond-2.txt  4733 The Still: An Article from the Poor Man's James Bond, by Kurt Saxon
+booknuti.txt  2265 Whole Foods for the Whole Family
+booze.fun  7936 Booze: Or Why Inky's Dagger is Such a Sneaky Drink by Captain Harlock
+booze1.fun  9893 A Collection of Drink Recepies
+booze2.fun  8410 A Second Collection of Drink Recepies
+brdpudd.des  762 RECIPE: Louisburg Cafe Bread Pudding
+bread.rcp  48391 RECIPE: A Collection of Bread Recipes Collection by Anne Louise Gockel (March 22, 1993)
+bread.rec  3859 Bread Recipes for the Breadmaking Machine
+bread.txt  3611 How to bake Whole Wheat Bread
+breadpud.des  1220 RECIPE: Bread Pudding
+bredcake.des  1060 RECIPE: Bread Cake
+brewing  22077 The Rec.Crafts.Brewing FAQ, January 2, 1993
+brownie.rec  2861 Chocolate Orgasms Recipe
+brush1.txt  14196 How a Mouth Works
+btaco.txt  900 How to Make a Breakfast Taco
+btscke01.des  2971 RECIPE: Better than Sex Cakes
+btscke02.des  1478 RECIPE: Better Than Sex Cakes
+btscke03.des  888 RECIPE: Better than Sex Cakes
+btscke04.des  1948 RECIPE: Better Than Sex Cakes
+btscke05.des  1122 RECIPE: Better Than Sex Cakes
+buffwing.pol  600 RECIPE: Buffalo Wings
+bunacald.fis  923 RECIPE: Bunacalda
+burrito.mea  893 RECIPE: World's Best Black Bean Burritos
+butcher.txt  18690 Butchering the Human Carcas, by Bob Arson of the Church of Euthanasia
+butstcod.fis  1423 RECIPE: Butter: Steamed Cod
+bw.txt  53249 Everyday Brainwashing, by Dick Sutphen
+byfb.txt  38640 How to Brew Your First Beer, Revision D.2 by John J. Palmer (1994)
+caesardr.sal  2658 RECIPE: Caesar Dressing
+cake.rec  3291 Recipe for the Better than Sex Cake
+calamus.hrb  1600 HERB: Sweet Flag (Acorus Calamus)
+candy.txt  434535 Extremely Large Collection of Candy Recipes
+candybar.fun  4104 Curious how many calories are in that candy bar?
+capital.txt  1508 RECIPE: Capitol Punishment Chili
+caramels.des  779 RECIPE: Carmel Candies (Wertherlike)
+cereal.txt  5380 Cereals: What the Label Doesn't Tell You
+chickens.txt  3299 How to Kill Chickens
+chili.txt  40391 A Collection of Chili Recipes
+chinese.txt  2756 Chinese Checkers! (Chinese Herbalists)
+choco-ch.ips  2003 The Authentic Mrs. Fields Cookies!
+cmu.share  5368 Sharing How Great a Home Cooked Meal Is
+coffee.faq  75425 FAQ: Frequently Asked Questions about Coffee and Caffeine (December 16, 1995)
+coke.fun  2337 How to Make Coca-Cola by The Penguin
+coke.txt  1515 Lee Williams reveals the secret Coca-Cola Formula!
+coke1  4831 Another make-your-own-coke. Remember how well new Coke flew?
+coke_fan.naz  2900 The Story of Coke, Fanta, and the Nazis from Kristy
+cokeform.txt  3049 Is it Coke? 84-year Old claims to have original Coke Formula
+coladrik.fun  3942 Summary of the major cola players at the time
+coladrik.txt  4988 The Cola Guide for the 1980's
+cookberk  3112 How to Cook a Berkeley Student by the Wharf Rat (June 1, 1988)
+cookbkly.how  3084 How to Cook a Berkeley Student
+cooking.fun  2944 Or, how to cook cool stuff even if you're a bachelor
+cooking.jok  1565 Some Somewhat Odd Cooking Terms
+critic.txt  29920 An Examination and Critique of the Recommendations of the Health Professions Legislation Review
+cuisine.txt  5817 Microsoft creates CuisineNet and Takes Over Food (April 17, 1993)
+curry.hrb  4482 Curries, from the Herbalist
+curry.txt  4611 Herbal Curries
+damiana.hrb  1833 HERB: Damiana
+dandwine.bev  1173 RECIPE: Dandelion Wine
+diet.txt  2820 Follow this Diet EXACTLY to lose 10 pounds in 3 days
+dining.out  6929 You Know You're In Trouble When, by George Lang of Food and Wine Magazine
+drinks.gui  48630 Very Large Drink List
+drinks.txt  6447 Our Favorite Drinks, by Krystaur and Baron GTS of The Parking Lot
+egg-bred.txt  1202 RECIPE: Egg Braid Bread
+egglentl.vgn  1313 RECIPE: Eggplant and Lentils
+eggroll1.mea  1385 RECIPE: Eggroll Special Recipe
+engmuffn.txt  1207 RECIPE: English Muffins
+fajitas.rcp  21024 RECIPE: A Collection of Fajitas Recipes (May 3, 1993)
+fearcola.hum  10377 Count Nibble Presents Fear and Loathing in the Softdrink Aisle
+feista01.dip  755 RECIPE: Fiesta Dip
+fiber.txt  29352 Things sweet to taste prove in digestion sour... Fiber in your Diet
+firecamp.txt  575 RECIPE: Kathy Hirdler's Fire Camp Chili
+fish.rec  1686 A Couple Fish Recipies
+focaccia.brd  1327 RECIPE: Two Sisters Foccaccia Bread
+food  13939 Some Trivia About Food
+foodtips  9553 Some Food Preparation of Tips
+frogeye1.sal  1143 RECIPE: Frog Eye Salad by Burntout
+fudge.txt  1664 MOM B's Five Minute Fudge
+gack!.txt  1457 A Recipe for making Slime (Gack!)
+garlpast.vgn  1284 RECIPE: Vegetarian Garlic Pasta
+get.drunk.cheap  13952 A Parody of MAKE.MONEY.FAST by Dave Rhodes (1988)
+gingbeer.txt  3539 Making Kelleye's Home Ginger Beer
+goldwatr.txt  736 RECIPE: Sen. Barry Goldwater's Expert Chili
+gotukola.hrb  8472 GOTU KOLA by Irene Yaychuk
+greenchi.txt  1807 RECIPE: Green Chili with pork
+gumbo.txt  2911 Peter's Authentic Louisiana Gumbo Recipe
+hamburge.nam  5086 What is the Etymology of junk food names?
+hangover.txt  1560 A Hangover Helper, by The Snark
+hedgehog.txt  2467 Steph Mandell Lets You Know About Hedgehogs
+homebrew.txt  19328 A Collection of Magazines, Organizations and Books about Brewing and Home Brewing
+hop.faq  40046 FAQ: The Hops FAQ Revision 3 (November 11, 1993) by Norm Pyle/Mark Garetz and Al Korzonas
+hotpeper.txt  797 Know Your Chili Peppers
+iced.tea  7091 How to use Tea Intravenously
+indgrdn.txt  21780 Creating an Indian Garden, by Frances B. King
+insect1.txt  3238 Eating Insects for Food
+jalapast.dip  1668 RECIPE: Mr. Q's Jalapeno Paste
+jambalay.pol  856 RECIPE: Chickehn Jambalaya
+japice.bev  552 RECIPE: Jalapeno Lime Ice
+jawgumbo.fis  1189 RECIPE: Jaws Gumbo
+jawsalad.fis  949 RECIPE: Shark Salad
+jerky.rcp  22263 RECIPE: A Collection of Jerky Recipes from Richard Moynes (January 11, 1993)
+jungjuic.bev  1355 RECIPE: Jungle Juice by Zapman
+kashrut.txt  36132 A Guide to Keeping Kosher: Fundamental Practices of the Jewish Dietary Laws
+margos.txt  1478 RECIPE: Margo Knudson's Chili (Winner, 1987 World Championship)
+mead.rcp  45569 Large Collection of Mead Recipes
+meat2.txt  11653 Reconsidering Meat: Vegetarian Rant
+mitch.txt  1862 RECIPE: Mitch Murdock's "Now That's Chili"
+montoys.txt  590 RECIPE: Senator Joseph Montoya's New Mexican Chili
+mrsfield  2064 Recipe For The Authentic Mrs. Fields Cookies
+msfields.txt  1075 The Urban Myth of the Mrs. Fields Cookie Recipe
+newcoke.txt  10665 Count Nibble Presents Fear and Loathing in the Soft Drink Aisle, June 4th, 1985
+nzdrinks.txt  3560 Collection of killer drinks from The Gallop Motor Inn's Ascot Cocktail Bar in New Zealand
+oakwood.txt  1514 RECIPE: Oakwood Feed Store Chili
+oatbran.rec  821 Recipe for Oat Bran Muffins
+oculis.rcp  29013 Medieval Feast with whole roast pig
+oldtime.txt  4887 RECIPE: Old Fashion Texas Chili
+oranchic.pol  961 RECIPE: Orange Chicken
+orgfrost.bev  591 RECIPE: Orange Frosted Beverage
+parsnip.txt  2475 Home Made Parsnip Wine, by The Urban Warrior
+pasta001.sal  1246 RECIPE: Pasta Salad
+pbcookie.des  1058 RECIPE: Peanut Butter Cookie Recipe
+penndtch  88532 RECIPE: Various Baked and Stuffed Dishes
+pepper.txt  6396 Going for the Culinary Burn: Why Americans Love Hot Food
+pot.txt  10079 Cooking with pot: Recipes
+ppbeer.txt  7341 The Phone Phantom presents How to Brew Your Own Beer
+qttofu.vgn  701 RECIPE: Quick and Tasty Tofu
+quantity.001  1013 An Approach to Food Stocks, by Les DeGroff
+recepies.fun  2152 Cooking with Pot
+recip1.txt  3703 A Collection of Marijuana Recipes
+recipe.001  2181 RECIPE: Italian Minestrone Soup
+recipe.002  1215 RECIPE: French Onion Soup
+recipe.003  1828 RECIPE: Chinese Pepper Steak
+recipe.004  2400 RECIPE: German Sauerbraten
+recipe.005  2153 RECIPE: Indian Chicken Curry
+recipe.006  1397 RECIPE: Hungarian Goulash
+recipe.007  1816 RECIPE: Russian Beef Stroganoff
+recipe.008  1265 RECIPE: Japanese Pickled Cauliflower
+recipe.009  1283 RECIPE: Grecian Green Beans
+recipe.010  1619 RECIPE: Scottish Oaten Bread
+recipe.011  2527 RECIPE: Columbian Fresh Banana Cake with Sea Foam Frosting
+recipe.012  1116 RECIPE: Brazilian Iced Chocolate
+renored.txt  1468 RECIPE: Reno Red Chili
+richbred.txt  1219 RECIPE: Rich Bread Recipe
+sanshop.txt  6191 The Collegiate Guide to Food Shopping, by Havok Halcyon (November 24, 1992)
+scam.txt  5487 Scamming Free Food in OZ (1994)
+seafood.txt  1935 RECIPE: Seafood Chilly
+seeds42.txt  12804 Exotic Tropical Seeds Variety List
+shooters.txt  19242 A List of Shooters (Alcoholic Drinks)
+shuimai.txt  14823 RECIPE: Shui Mai Dumplings
+snapple.rum  6714 Snapple Escapes the Grip of Rumors by Barbara Presley Noble January 19, 1993
+stagline.txt  910 RECIPE: 1981 World Championship Butterfield Stageline Chili
+strattma.txt  1073 RECIPE: Steve Strattman's Winning Chili
+texbeef.txt  1464 RECIPE: Texas Beef Chili
+tuna.lab  2677 More details on the "cat food sold as tuna" story
+turkey.fun  5001 Roast Turkey with Cornbread Stuffing Recipe
+twinkies.jok  4489 The Biology of Snack Cakes, by Eric Kollenberg (February 21, 1986)
+unochili.txt  1745 Recipe: Numero Uno Chili from the Manhattan Chili Company
+vegan.rcp  108682 A Large Collection of Vegetarian Recipes
+venganza.txt  1481 RECIPE: Los Venganza Del Almo Chili by Bill Pfeiffer (1982)
+venison.txt  1562 RECIPE: Venison Chili
+whitbred.txt  1405 Recipe for White Bread
+wonton.txt  10772 Recipe for Won Tons
+woods.txt  1883 Recipe for C.V. Woods World Championship Chili
+x-drinks.txt  36388 A Large Collection of X-Rated Drinks (Or at least with X-Rated Names)
+yogurt.asc  2280 RECIPE: Yogurt by Vaishnava Dasa (June 29, 1991)
+zucantom.sal  1142 RECIPE: Zucchini and Tomato Salad
+zuccmush.sal  902 RECIPE: Zucchini and Mushroom Salad
+There are 213 files for a total of 2,129,022 bytes.

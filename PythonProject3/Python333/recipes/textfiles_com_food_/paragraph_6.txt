@@ -1,0 +1,2 @@
+If you wish to have the entire directory conveniently archived and compressed into one file, please download
+either food.tar.gz (741695 bytes) or food.zip (818130 bytes) instead of all the files separately. 
