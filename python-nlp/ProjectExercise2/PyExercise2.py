@@ -82,7 +82,8 @@ def readTextFiles(filepath):
         print(highSimilarityReduced)
         print(len(highSimilarityReduced.items()), " vs ", len(highSimilarityDict.items()))
 
-        highSimilarityReduced = sorted(highSimilarityDict.items(), key=lambda x: x[1])
+        highSimilarityReduced = sorted(highSimilarityReduced.items(), key=lambda x: x[1])
+        highSimilarityReduced = dict(highSimilarityReduced)
         print(highSimilarityReduced)
 
         # ebb: For this next part, it's YOUR TURN to write some modifying code.

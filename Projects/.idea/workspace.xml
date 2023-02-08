@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="05c3b89e-c03d-4f44-bf32-3a60a3beae0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-nlp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-nlp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python-nlp/ProjectExercise2/PyExercise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-nlp/ProjectExercise2/PyExercise2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
