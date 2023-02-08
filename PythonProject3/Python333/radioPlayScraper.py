@@ -7,6 +7,10 @@ import requests
 import os
 from bs4 import BeautifulSoup
 
+import requests
+import os
+from bs4 import BeautifulSoup
+
 url = 'http://textfiles.com/food/'
 folder = 'recipes'
 
@@ -27,13 +31,15 @@ def scrape_paragraphs(url):
         with open(os.path.join(subfolder_path, f'paragraph_{i}.txt'), 'w') as f:
             f.write(p.text)
 
+    for link in soup.find_all('a'):
+        link_url = link.get('href')
+        if link_url and link_url.startswith('http'):
+            scrape_paragraphs(link_url)
+
 scrape_paragraphs(url)
 
-for link in BeautifulSoup(requests.get(url).text, 'html.parser').find_all('a'):
-    link_url = link.get('href')
-    if link_url.startswith('http'):
-        scrape_paragraphs(link_url)
-        scrape_paragraphs(link_url)
+
+
 
 
 
