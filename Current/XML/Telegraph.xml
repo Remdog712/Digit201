@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <Date>August 23. </Date>
+
+    <context>It rained very hard in <Newf>Newfoundland</Newf> from midnight until <num>six</num>
+        A.M.</context>
+
+    <person><Newf>Newfoundland</Newf> to <Val>Valentina</Val>.</person>
+    <quote>“Your currents very irregular. Repeat.”</quote>
+
+    <person><Val>Valentina</Val> to <Newf>Newfoundland</Newf>.</person>
+    <quote>“Signals weak. Will you take message from Lord Mayor?”</quote>
+
+    <person><Newf>Newfoundland</Newf> to <Val>Valentina</Val>.</person>
+    <quote>“Yes; send little faster and better.”</quote>
+
+    <person><Val>Valentina</Val> to <Newf>Newfoundland</Newf>.</person>
+    <quote>“Give ‘understand ‘every <num>twenty</num> words.”</quote>
+
+    <person><Newf>Newfoundland</Newf> to <Val>Valentina</Val>.</person>
+    <quote>“All right. Send much faster.”</quote>
+    <quote>“Understand, faster.” Testing nearly the whole of the day at
+        <Val>Valentina</Val>.</quote>
+</root>
