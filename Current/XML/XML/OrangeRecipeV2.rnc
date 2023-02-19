@@ -1,0 +1,31 @@
+default namespace = ""
+namespace xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = root
+
+root = element root {dish, temp, time, measure, ingr, tool, app, xsd:integer, author, date}
+
+dish = element dish {text}
+
+text = element text {xsd:string}
+
+temp = element temperature {xsd:integer}
+
+time = element time {xsd:integer}
+
+measure = element measure {text}
+
+ingr = element ingredient {text, temp?, time?, measure?, tool?, app?}
+
+tool = element tool {text}
+
+app = element appliance {text}
+
+author = element author {text}
+
+date = element date {xsd:integer, text}
+
+
+
+
+

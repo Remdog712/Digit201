@@ -1,0 +1,6 @@
+1.) Analysze Each Season for a possible topic
+
+2.) Analyze the series for the most words
+
+3.) Analyze the characters for the amount of times their name is said throughout the series
+
