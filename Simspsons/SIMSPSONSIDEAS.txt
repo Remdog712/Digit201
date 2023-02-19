@@ -2,5 +2,17 @@
 
 2.) Analyze the series for the most words
 
-3.) Analyze the characters for the amount of times their name is said throughout the series
+3.) Analyze the characters for the amount of times their name is said 
+throughout the series
 
+
+
+LAYOUT - all with a Simpsons theme
+
+Home (What we're analyzing) (description of the show)
+
+The Analysis (the actual results)
+
+The Code (A page displaying how we did it all)
+
+About Us - (Simpsons Versions of ourselves and about us as people)
