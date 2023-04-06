@@ -20,7 +20,7 @@ def readTextFiles(filepath):
 def entitycollector(tokens):
     entities = set()  # use a set to store unique entities
     for entity in tokens.ents:
-        if entity.label_ == "PERSON":
+        if entity.label_ == "LOC":
             entities.add(entity.text)
     return entities
 
